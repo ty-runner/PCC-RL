@@ -16,7 +16,7 @@ import gym
 import network_sim
 import tensorflow as tf
 
-from stable_baselines.common.policies import MlpPolicy
+#from stable_baselines.common.policies import MlpPolicy
 from stable_baselines.common.policies import FeedForwardPolicy
 from stable_baselines import PPO1
 import os
